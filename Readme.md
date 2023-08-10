@@ -1,5 +1,4 @@
 # <h1 align="center">Hi, I'm Daniela Picon Salas</h1>
-
 <!-- Languages -->
 ## Languages
 <p>
