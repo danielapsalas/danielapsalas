@@ -1,4 +1,4 @@
-# <h1 align="center">Hi, I'm Daniela Picon Salas</h1>
+# <h1>Hi, I'm Daniela Picon Salas</h1>
 
 <strong>About Me:</strong><br>
 📚 I’m currently working as an instructor at icode<br>
