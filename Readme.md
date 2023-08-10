@@ -2,15 +2,15 @@
 
 <strong>About Me:</strong><br>
 📚 I’m currently working as an instructor at icode<br>
-📈 I have experienced in full stack development<br>
-💻 I'm currently looking for full time front end positions<br>
+📈 I have experience in full stack development<br>
+💻 I'm currently looking for full time front end positions<br><br>
 
-🏆<strong> My education:</strong><br>
+🏆<strong>Education:</strong><br>
  Associates in computer science<br>
- <a href="https://codeup.edu/program/full-stack-web-development/">Codeup</a>: Full Stack Web Development Bootcamp
+ <a href="https://codeup.edu/program/full-stack-web-development/">Codeup</a>: Full Stack Web Development Bootcamp<br>
 
 📫 <strong>Contact me:</strong><br>
-Linkedin: <a href="https://www.linkedin.com/in/daniela-picon-salas/">Daniela Picon Salas</a><br>
+Linkedin: <a href="https://www.linkedin.com/in/daniela-picon-salas/">Daniela Picon Salas</a><br><br>
 
 <!-- Languages -->
 ## Languages
