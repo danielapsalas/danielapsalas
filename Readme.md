@@ -18,3 +18,10 @@
     <a href="#"><img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"></a>
     <a href="#"><img alt="Hibernate" src="https://img.shields.io/badge/Hibernate-%230596C1.svg?style=for-the-badge&logo=hibernate&logoColor=white"></a>
 </p>
+
+<!-- Databases -->
+## Databases
+<p>
+    <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"></a>
+</p>
+
