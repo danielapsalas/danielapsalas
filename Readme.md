@@ -1,16 +1,16 @@
 # <h1 align="center">Hi, I'm Daniela Picon Salas</h1>
 
-<strong>About Me:</strong><br><br>
+<strong>About Me:</strong><br>
 📚 I’m currently working as an instructor at icode<br>
 📈 I have experienced in full stack development<br>
-💻 I'm currently looking for full time front end positions<br><br>
-🏆<strong> My education:</strong>
-<ul>
-  <li>Associates in computer science</li>
-  <li><a href="https://codeup.edu/program/full-stack-web-development/">Codeup</a>: Full Stack Web Development Bootcamp</li>
-</ul>
-📫 <strong>Contact me:</strong><br><br>
-Linkedin: <a href="https://www.linkedin.com/in/daniela-picon-salas/">Daniela Picon Salas</a><br><br>
+💻 I'm currently looking for full time front end positions<br>
+
+🏆<strong> My education:</strong><br>
+ Associates in computer science<br>
+ <a href="https://codeup.edu/program/full-stack-web-development/">Codeup</a>: Full Stack Web Development Bootcamp
+
+📫 <strong>Contact me:</strong><br>
+Linkedin: <a href="https://www.linkedin.com/in/daniela-picon-salas/">Daniela Picon Salas</a><br>
 
 <!-- Languages -->
 ## Languages
