@@ -1,3 +1,5 @@
+# <h1 align="center">Hi, I'm Daniela Picon Salas</h1>
+
 <!-- Languages -->
 ## Languages
 <p>
@@ -16,7 +18,8 @@
     <a href="#"><img alt="Ajax" src="https://img.shields.io/badge/Ajax-0769AD?style=for-the-badge&logo=ajax&logoColor=white"></a>
     <a href="#"><img alt="Thymeleaf" src="https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white"></a>
     <a href="#"><img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"></a>
-    <a href="#"><img alt="Hibernate" src="https://img.shields.io/badge/Hibernate-%230596C1.svg?style=for-the-badge&logo=hibernate&logoColor=white"></a>
+
+[//]: # (    <a href="#"><img alt="Hibernate" src="https://img.shields.io/badge/Hibernate-%230596C1.svg?style=for-the-badge&logo=hibernate&logoColor=white"></a>)
 </p>
 
 <!-- Databases -->
