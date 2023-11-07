@@ -1,7 +1,6 @@
 # <h1>Hi, I'm Daniela Picon Salas</h1>
 
 <strong>About Me:</strong><br>
-📚 I’m currently working as an instructor at icode<br>
 📈 I have experience in full stack development<br>
 💻 I'm currently looking for full time front end positions<br><br>
 
