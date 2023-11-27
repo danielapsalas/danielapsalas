@@ -1,7 +1,7 @@
 # <h1>Hi, I'm Daniela Picon Salas</h1>
 
 <strong>About Me:</strong><br>
-📈 I have experience in full stack development<br>
+📈 I have experience in front end development<br>
 💻 I'm currently looking for full time front end positions<br><br>
 
 🏆<strong>Education:</strong><br>
