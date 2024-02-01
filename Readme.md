@@ -29,10 +29,3 @@ Linkedin: <a href="https://www.linkedin.com/in/daniela-picon-salas/">Daniela Pic
 
 [//]: # (    <a href="#"><img alt="Hibernate" src="https://img.shields.io/badge/Hibernate-%230596C1.svg?style=for-the-badge&logo=hibernate&logoColor=white"></a>)
 </p>
-
-<!-- Databases -->
-## Databases
-<p>
-    <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"></a>
-</p>
-
