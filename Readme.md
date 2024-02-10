@@ -2,15 +2,16 @@
 
 <strong>About Me:</strong><br>
 📈 I have experience in front end development<br>
-💻 I'm currently looking for full time front end positions<br><br>
+💻 I'm currently looking tech positions, I am a life long learner and love to dive into new things<br><br>
 
 🏆<strong>Education:</strong><br>
  Associates in computer science<br>
- <a href="https://codeup.edu/program/full-stack-web-development/">Codeup</a>: Full Stack Web Development Bootcamp<br>
+ <a href="https://codeup.edu/program/full-stack-web-development/">Codeup</a>: Full Stack Web Development Bootcamp<br><br>
 
 📫 <strong>Contact me:</strong><br>
-Linkedin: <a href="https://www.linkedin.com/in/daniela-picon-salas/">Daniela Picon Salas</a><br><br>
-Portfolio: <a href="https://danielapsalas.github.io/daniela-picon-salas-portfolio/">Check it out!</a><br><br>
+Linkedin: <a href="https://www.linkedin.com/in/daniela-picon-salas/">Daniela Picon Salas</a><br>
+Portfolio: <a href="https://danielapsalas.github.io/daniela-picon-salas-portfolio/">Check it out!</a><br>
+Get in contact: <a href="mailto:danielapiconsalas.com">Email Me</a><br>
 
 <!-- Languages -->
 ## Languages
