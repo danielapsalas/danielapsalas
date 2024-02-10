@@ -10,6 +10,7 @@
 
 📫 <strong>Contact me:</strong><br>
 Linkedin: <a href="https://www.linkedin.com/in/daniela-picon-salas/">Daniela Picon Salas</a><br><br>
+Portfolio: <a href="https://danielapsalas.github.io/daniela-picon-salas-portfolio/">Check it out!</a><br><br>
 
 <!-- Languages -->
 ## Languages
